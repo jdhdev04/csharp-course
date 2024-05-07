@@ -1,4 +1,4 @@
-﻿namespace Console.Main
+﻿namespace Dos.Main
 {
     internal class Program
     {
